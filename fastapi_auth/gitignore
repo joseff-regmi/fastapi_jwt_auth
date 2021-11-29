@@ -1,6 +1,7 @@
-blogs/__pyacache__.
-blogs/repository/__pyacache__.
-blogs/routers/__pyacache__.
-.blog.db
+blogs/__pyacache__/
+blogs/repository/__pyacache__/
+blogs/routers/__pyacache__/
+.*
+!.gitignore
 
 
